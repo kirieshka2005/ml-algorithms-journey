@@ -19,9 +19,9 @@ Here you'll find:
 ## 📁 Repository Structure
 
 📦 algorithms-and-data-structures
-├── 📂 algorithms/ # Algorithm implementations
-├── 📂 data_structures/ # Data structure implementations
-├── 📄 README.md
+- 📂 algorithms/ # Algorithm implementations
+- 📂 data_structures/ # Data structure implementations
+- 📄 README.md
 
 ---
 
